@@ -1,0 +1,4 @@
+方法1
+1.将tomcat／webapps/xunjian-web备份
+2.覆盖xunjian-web.war
+3.将备份的xunjian-web/webRoot/WEB-INF/config,xunjian-web/webroot/WEB-INF/xj_sys/www 覆盖即可
