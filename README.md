@@ -34,3 +34,5 @@ jdbc.properties
 
 #androi客户端
 管理员密码admin1234
+
+
